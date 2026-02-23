@@ -1,1 +1,2 @@
-Permission denied
+// Deprecato
+export {};
